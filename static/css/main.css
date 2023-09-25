@@ -74,7 +74,8 @@ a {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
-  font-family: 'Faster One';font-size: 22px;
+  font-family: 'Faster One';
+  font-size: 22px;
   font-size: 20px !important;
 }
 #header .logo:hover {
